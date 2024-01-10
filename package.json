@@ -1,6 +1,6 @@
 {
   "name": "server-only-context",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Context for your server components",
   "main": "lib/index.js",
   "files": [
